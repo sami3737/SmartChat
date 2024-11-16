@@ -31,4 +31,4 @@ Les administrateurs de serveur [Rust Experimental](https://rust.facepunch.com/) 
 
 ## Licence
 
-Ce projet est sous licence ``MIT License`` - voir le fichier [LICENSE](LICENCE.md) pour plus d'informations
+Ce projet est sous licence ``MIT License`` - voir le fichier [LICENSE](LICENSE.md) pour plus d'informations
